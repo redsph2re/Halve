@@ -2,8 +2,8 @@
 title: RedSphere Blog
 description: Studying Information Security especially Digital Forensics
 url: http://redsph2re.github.io
-logo: halve.png                                       # Site logo
-locale: en_US
+logo: images/halve.png                                       # Site logo
+locale: ko_KR
 
 # Left Block Images
 background:
