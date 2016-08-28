@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# Posts for Paper Studies
+# Hong-goo Kang
 
-Network Scanning, Network Forensics...
+Korea University, DCD <br /> Digital Forensics
