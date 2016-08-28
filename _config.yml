@@ -1,7 +1,8 @@
 # Site
 title: RedSphere's page
-description: Information Security / 
-Digital Forensics
+description: 
+  Information Security
+  Digital Forensics
 url: http://redsph2re.github.io
 logo: image_fix.png                                       # Site logo
 locale: ko_KR
