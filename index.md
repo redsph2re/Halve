@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# Posting place for Paper Studies
+# Posts for Paper Studies
 
 Network Scanning, Network Forensics...
