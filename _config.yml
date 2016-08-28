@@ -1,9 +1,6 @@
 # Site
 title: RedSphere's page
-description:l
-  Information Security
-
-  Digital Forensics
+description: Korea University <br /> Information Security <br /> Digital Forensics
 url: http://redsph2re.github.io
 logo: image_fix.png                                       # Site logo
 locale: ko_KR
